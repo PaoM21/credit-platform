@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BatchProcessor_Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7127",
+      "launchBrowser": false
+    }
+  }
+}
